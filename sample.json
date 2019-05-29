@@ -1,0 +1,91 @@
+[
+
+    {
+        "activityType":"hitting",
+        "player":{
+            "avatar":"johndoe.jpg",
+            "name":"Seth Daniels",
+            "lastActivity": "20190419"
+        },
+        "date":"20190419",
+        "activity": {
+            "totalPitches": 35,
+            "strike": 75,
+            "totalSessions":12,
+            "rapscore": 75,
+            "videos" : [
+                {
+                    "score":78,
+                    "videoUrl":"https://www.youtube.com/watch?v=6k9aGGYhzMQ",
+                    "date":"20190419"
+                    
+                },
+                {
+                    "score":71,
+                    "videoUrl":"https://www.youtube.com/watch?v=6k9aGGYhzMQ",
+                    "date":"20190419"
+                    
+                }
+            ]
+        }
+    },
+    {
+        "activityType":"pitching",
+        "player":{
+            "avatar":"johndoe.jpg",
+            "name":"Joe Strummer",
+            "lastActivity": "20190416"
+        },
+        "date":"20190416",
+        "activity": {
+            "totalPitches": 35,
+            "strike": 75,
+            "totalSessions":12,
+            "rapscore": 75,
+            "videos" : [
+                {
+                    "score":78,
+                    "videoUrl":"https://www.youtube.com/watch?v=6k9aGGYhzMQ",
+                    "date":"20190417"
+                    
+                },
+                {
+                    "score":71,
+                    "videoUrl":"https://www.youtube.com/watch?v=6k9aGGYhzMQ",
+                    "date":"20190416"
+                    
+                }
+            ]
+        }
+    },
+
+    {
+        "activityType":"pitching",
+        "player":{
+            "avatar":"johndoe.jpg",
+            "name":"Kyle Berry",
+            "lastActivity": "20190417"
+        },
+        "date":"20190417",
+        "activity": {
+            "totalPitches": 35,
+            "strike": 75,
+            "totalSessions":12,
+            "rapscore": 75,
+            "videos" : [
+                {
+                    "score":78,
+                    "videoUrl":"https://www.youtube.com/watch?v=6k9aGGYhzMQ",
+                    "date":"20190417"
+                    
+                },
+                {
+                    "score":71,
+                    "videoUrl":"https://www.youtube.com/watch?v=6k9aGGYhzMQ",
+                    "date":"20190417"
+                    
+                }
+            ]
+        }
+    }
+]
